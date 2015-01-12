@@ -1,0 +1,11 @@
+{
+  "name": "mengqijia",
+  "version": "1.0.0",
+  "description": "To generate clients configuration randomly",
+  "main": "clients_config.js",
+  "scripts": {
+    "test": "./generateClients.js"
+  },
+  "author": "Mengqi",
+  "license": "ISC"
+}
