@@ -1,10 +1,13 @@
 {
     "name": "gencc",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "To generate clients configuration randomly",
     "main": "clients_config.js",
     "scripts": {
         "test": "./generateClients.js"
+    },
+    "bin": {
+        "gencc": "./generateClients.js"
     },
     "author": "mengqijia"
 }
